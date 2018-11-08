@@ -1,0 +1,57 @@
+body {
+    line-height: normal;
+}
+.myWiki-user-image{
+	margin-left: 15px;
+	margin-right: 0px;
+}
+.myWiki-margin-0{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	left: -2%;
+}
+.myWiki-wiki{
+	margin: 0px!important;
+	padding: 0px;
+	border: 0px;
+	left: -1%;
+}
+.myWiki-user-name-des{
+	font-size: 13px;
+}
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+.myWiki-wiki-question{
+	font-size: 30px;
+	font-weight: 900;
+	line-height: .95em !important;
+	font-style: bold;
+	font-family: Times, Times New Roman, Georgia, serif;
+
+}
+.serif {
+  font-family: Times, Times New Roman, Georgia, serif;
+}
+
+.sansserif {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: Lucida Console, Courier, monospace;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.fantasy {
+  font-family: fantasy;
+}
+.myWiki-wiki-date{
+	margin-left: 5px;
+	font-size: 10px;
+}
