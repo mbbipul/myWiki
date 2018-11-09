@@ -1745,7 +1745,7 @@ body {
   width: 150px;
   height: 150px;
   overflow: hidden;
-  margin: 2rem auto 2rem auto;
+  margin: 2rem auto 0 auto;
 }
 .cid-qBZdXqJIbp .testimonials-container .testimonials-item .user .user_image img {
   width: 100%;
@@ -1754,7 +1754,8 @@ body {
 }
 .cid-qBZdXqJIbp .testimonials-container .testimonials-item .user .testimonials-caption {
   padding: 2rem;
-  padding: 2rem 2rem 2rem 0;
+  padding-bottom: 0;
+  padding: 2rem 2rem 0 0;
 }
 @media (max-width: 260px) {
   .cid-qBZdXqJIbp .user_image {
@@ -1764,7 +1765,7 @@ body {
 }
 @media (max-width: 767px) {
   .cid-qBZdXqJIbp .testimonials-caption {
-    padding: 0 2rem 2rem 2rem !important;
+    padding: 0 2rem 0 2rem !important;
   }
 }
 .cid-qBZn2MwvrY {

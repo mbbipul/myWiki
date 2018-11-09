@@ -23,6 +23,7 @@
   <link rel="stylesheet" href="assets/animate.css/animate.min.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/wikiAssets/index.css">
+  <link rel="stylesheet" href="assets/wikiAssets/myWiki_icons.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
 <style type="text/css">
@@ -387,8 +388,21 @@ ul {
                    <?php }?>
                  </ul>
             </div>
-            <div class="display-7">
-              
+            <div class="row">
+              <div class="col"><button class="btn btn-default" >
+   <i class="myWiki-up"></i> Upvote
+</button></div> 
+              <div class="col"><button class="myWiki-wiki-like-button" style='background-color:transparent;'>
+   <i class="myWiki-up"></i> Upvote
+</button></div> <div class="col"><button class="myWiki-wiki-like-button" style='background-color:transparent;'>
+   <i class="myWiki-up"></i> Upvote
+</button></div> <div class="col"><button class="myWiki-wiki-like-button" style='background-color:transparent;'>
+   <i class="myWiki-up"></i> Upvote
+</button></div> <div class="col"><button class="myWiki-wiki-like-button" style='background-color:transparent;'>
+   <i class="myWiki-up"></i> Upvote
+</button></div> <div class="col"><button class="myWiki-wiki-like-button" style='background-color:transparent;'>
+   <i class="myWiki-up"></i> Upvote
+</button></div>   
             </div>
           </div>
         </div>
