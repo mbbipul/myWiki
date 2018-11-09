@@ -25,7 +25,7 @@
   <link rel="stylesheet" href="assets/wikiAssets/index.css">
   <link rel="stylesheet" href="assets/wikiAssets/myWiki_icons.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 <style type="text/css">
    
     .tags {
@@ -388,23 +388,33 @@ ul {
                    <?php }?>
                  </ul>
             </div>
-            <div class="row">
-              <div class="col"><button class="btn btn-default" >
-   <i class="myWiki-up"></i> Upvote
-</button></div> 
-              <div class="col"><button class="myWiki-wiki-like-button" style='background-color:transparent;'>
-   <i class="myWiki-up"></i> Upvote
-</button></div> <div class="col"><button class="myWiki-wiki-like-button" style='background-color:transparent;'>
-   <i class="myWiki-up"></i> Upvote
-</button></div> <div class="col"><button class="myWiki-wiki-like-button" style='background-color:transparent;'>
-   <i class="myWiki-up"></i> Upvote
-</button></div> <div class="col"><button class="myWiki-wiki-like-button" style='background-color:transparent;'>
-   <i class="myWiki-up"></i> Upvote
-</button></div> <div class="col"><button class="myWiki-wiki-like-button" style='background-color:transparent;'>
-   <i class="myWiki-up"></i> Upvote
-</button></div>   
+
+            <!--eiki button-->
+            <div class="row no-gutters" style="margin-left: 2px;">
+              <div class="col-2 text-center">
+                <button class="myWiki-wiki-like-button" >
+                  <i class="fas fa-angle-double-up"></i> Upvote 2.7k
+                </button>
+              </div>
+              <div class="col-2 text-center">
+                <button class="myWiki-wiki-like-button" >
+                  <i class="fa fa-retweet" ></i>Share 100
+                </button>
+              </div>             
+              <div class="col-2 text-center">
+                <button class="myWiki-wiki-like-button" >
+                  <i class="far fa-eye"></i>200,50
+                </button>
+              </div>              
+              <div class="col-6 text-center">
+     <ul class="list-inline">
+  <li class="list-inline-item">Lorem ipsum</li>
+  <li class="list-inline-item">Phasellus iaculis</li>
+  <li class="list-inline-item">Nulla volutpat</li>
+</ul>
+              </div>
             </div>
-          </div>
+            <!---->
         </div>
     </div>
         <?php

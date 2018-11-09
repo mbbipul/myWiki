@@ -2,6 +2,8 @@
 .myWiki-up:before{
     content: '';
     background:url('wiki_up.png');
+    color: #28a349;
+    
     background-size:cover;
         position:absolute;
     width:20px;
